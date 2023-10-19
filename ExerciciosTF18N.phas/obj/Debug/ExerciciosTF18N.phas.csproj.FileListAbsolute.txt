@@ -1,0 +1,8 @@
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\obj\Debug\ExerciciosTF18N.phas.csproj.AssemblyReference.cache
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\obj\Debug\ExerciciosTF18N.phas.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\obj\Debug\ExerciciosTF18N.phas.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\bin\Debug\ExerciciosTF18N.phas.exe.config
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\bin\Debug\ExerciciosTF18N.phas.exe
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\bin\Debug\ExerciciosTF18N.phas.pdb
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\obj\Debug\ExerciciosTF18N.phas.exe
+C:\Users\pedro.hasantos16\source\repos\ExerciciosTF18N.phas\ExerciciosTF18N.phas\obj\Debug\ExerciciosTF18N.phas.pdb
