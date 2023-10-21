@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -91,6 +92,46 @@ namespace ExerciciosTF18N.phas
         {
             return valorVenda * 0.05;
         }//Fim do Total - Comissão - Vendas
+
+        //Exercício 09 - Par ou Ímpar
+        public int ParImpar (int num)
+        {
+            return num % 2;
+        }//Fim do Par ou Ímpar
+
+        //Exercício 10 - Maior de idade
+        //Sem Model!!
+
+        //Exercício 11 - Maior número
+        //Sem Model!!
+
+        //Exercício 12 - Ano Bissexto
+        public int AnoBi(int ano)
+        {
+            return ano % 4;
+        }//Fim ano Bissexto
+
+        //Exercício 13 - Média das provas
+        public double MediaProva(double notaM1, double notaM2)
+        {
+            return (notaM1 + notaM2) / 2;
+        }//Fim da Média das provas
+
+        //Exercício 14 - Triângulo
+        //Sem Model!!
+
+        //Exercício 15 - Negativo, Positivo ou "0"
+        public Boolean NegativoPositivo(double numPN)
+        {
+            if (numPN > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }//Fim do Negativo ou Positivo
 
         public Boolean Validar(double num)
         {
